@@ -1,14 +1,12 @@
 ---
-title: Cadenas o Strings, Acceso y Manipulación de Cadenas
-linktitle: Cadenas o Strings, Acceso y Manipulación de Cadenas
+title: 2.5 Cadenas o Strings, Acceso y Manipulación de Cadenas
+linktitle: 2.5 Cadenas o Strings, Acceso y Manipulación de Cadenas
 type: book
 date: '2024-01-20T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
 weight: 6
 ---
-
-## 2.5 Cadenas o Strings, Acceso y Manipulación de Cadenas
 
 En Python, una cadena o string es una secuencia de caracteres. Las cadenas son un tipo de dato inmutable, lo que significa que no se pueden cambiar una vez que se han creado. Puedes acceder y manipular cadenas de diversas formas. Aquí te proporciono información sobre la indexación, el slicing y algunos métodos básicos para manejar cadenas:
 

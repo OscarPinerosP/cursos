@@ -1,14 +1,12 @@
 ---
-title: Ejercicios Prácticos Módulo 2
-linktitle: Ejercicios Prácticos Módulo 2
+title: 2.6 Ejercicios Prácticos Módulo 2
+linktitle: 2.6 Ejercicios Prácticos Módulo 2
 type: book
 date: '2024-01-20T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
 weight: 7
 ---
-
-## 2.4 Ejercicios Prácticos Modulo 2
 
 - **Ejercicio 1:**
 - Crear una lista de números y realizar operaciones de modificación.

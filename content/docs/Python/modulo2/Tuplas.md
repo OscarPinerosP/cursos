@@ -1,14 +1,12 @@
 ---
-title: Tuplas
-linktitle: Tuplas
+title: 2.2 Tuplas
+linktitle: 2.2 Tuplas
 type: book
 date: '2024-01-20T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
 weight: 3
 ---
-
-## 2.2 Tuplas
 
 En Python, una tupla es una colección ordenada e inmutable de elementos. La principal diferencia entre listas y tuplas radica en la mutabilidad: las listas son mutables (sus elementos pueden cambiarse), mientras que las tuplas son inmutables (una vez creadas, no pueden modificarse). Las tuplas se utilizan cuando se desea asegurar que los datos no cambien durante la ejecución del programa.
 

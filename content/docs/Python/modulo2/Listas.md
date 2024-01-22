@@ -1,15 +1,12 @@
 ---
-title: Listas
-linktitle: Listas
+title: 2.1 Listas
+linktitle: 2.1 Listas
 type: book
 date: '2024-01-20T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
 weight: 2
 ---
-
-
-## 2.1 Listas
 
 En Python, una lista es una colección ordenada y mutable de elementos. Los elementos en una lista pueden ser de cualquier tipo, y la lista puede contener diferentes tipos de datos. Las listas son una de las estructuras de datos más utilizadas en Python. Aquí hay información sobre cómo crear listas, acceder a sus elementos y algunos métodos básicos.
 

@@ -1,14 +1,12 @@
 ---
-title: Conjuntos
-linktitle: Conjuntos
+title: 2.4 Conjuntos
+linktitle: 2.4 Conjuntos
 type: book
 date: '2024-01-20T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
 weight: 5
 ---
-
-## 2.4 Conjuntos
 
 En Python, un conjunto es una colección no ordenada de elementos únicos. Los conjuntos se utilizan para realizar operaciones de conjunto, como unión, intersección, diferencia y otras operaciones matemáticas en conjuntos. Aquí te explico cómo crear, acceder y realizar algunas operaciones con conjuntos:
 

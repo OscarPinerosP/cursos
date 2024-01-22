@@ -1,15 +1,12 @@
 ---
-title: Diccionarios
-linktitle: Diccionarios
+title: 2.3 Diccionarios
+linktitle: 2.3 Diccionarios
 type: book
 date: '2024-01-20T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
 weight: 4
 ---
-
-
-## 2.3 Diccionarios
 
 En Python, un diccionario es una colección no ordenada de pares clave-valor. Cada elemento en un diccionario consiste en una clave y su correspondiente valor. Los diccionarios son útiles para representar relaciones entre datos y permiten acceder eficientemente a los valores utilizando las claves.
 

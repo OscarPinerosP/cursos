@@ -1,8 +1,7 @@
 ---
 # Title, summary, and page position.
 title: Conceptos Básico de Programación con Python
-linktitle: Conceptos Básico de Programación con Python
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Introducción
 weight: 1
 tags:
 - Python

@@ -1,12 +1,12 @@
 ---
-title: Conceptos Básico de Programación con Python
-linktitle: Conceptos Básico de Programación con Python
+title: Temario
+linktitle: Temario
 type: book
 date: '2019-05-05T00:00:00+01:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
 - Python
-weight: 1
+weight: 2
 ---
 
 Aprende a programar en Python desde cero. En este curso te ayudaré a comprender los fundamentos y características esenciales del lenguaje de programación Python de una manera sencilla, fácil de comprender y sobre todo práctica.

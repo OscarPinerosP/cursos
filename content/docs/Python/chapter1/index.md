@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
 title: Conceptos Básico de Programación con Python
-linktitle: Introducción
-weight: 1
+linktitle: Conceptos Básico de Programación con Python
+# weight: 1
 tags:
 - Python
 icon: book-reader
@@ -10,7 +10,7 @@ icon_pack: fas
 
 # Page metadata.
 
-date: '2018-09-09T00:00:00Z'
+date: '2024-01-20T00:00:00Z'
 type: book # Do not modify.
 ---
 

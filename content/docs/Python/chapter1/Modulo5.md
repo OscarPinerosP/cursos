@@ -2,10 +2,10 @@
 title: Módulo 5 Programación Funcional en Python
 linktitle: Módulo 5 Programación Funcional en Python
 type: book
-date: '2019-05-05T00:00:00+01:00'
+date: '2024-01-20T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
-weight: 8
+weight: 6
 ---
 
 

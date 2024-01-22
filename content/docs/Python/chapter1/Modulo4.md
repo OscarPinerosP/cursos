@@ -2,10 +2,10 @@
 title: Módulo 4 Trabajo con Archivos
 linktitle: Módulo 4 Trabajo con Archivos
 type: book
-date: '2019-05-05T00:00:00+01:00'
+date: '2024-01-20T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
-weight: 7
+weight: 5
 ---
 
 

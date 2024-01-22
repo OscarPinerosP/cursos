@@ -2,7 +2,7 @@
 title: Conceptos
 linktitle: Conceptos
 summary: Aprende
-weight: 9
+weight: 1
 icon: book
 icon_pack: fas
 type: book # Do not modify.

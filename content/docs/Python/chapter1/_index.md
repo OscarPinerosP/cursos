@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 title: Conceptos Básico de Programación con Python
 linktitle: Conceptos Básico de Programación con Python
-weight: 2
+weight: 1
 tags:
 - Python
 icon: book-reader

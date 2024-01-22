@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 2
+linktitle: Módulo 2
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 12
+weight: 5
 icon: book-reader
 icon_pack: fas
 

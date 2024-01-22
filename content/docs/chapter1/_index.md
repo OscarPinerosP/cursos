@@ -1,54 +1,31 @@
 ---
 # Title, summary, and page position.
-linktitle: Modulo 1
+linktitle: Conceptos Básico de Programación con Python
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 # weight: 1
 icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Modulo 1
+title: Conceptos Básico de Programación con Python
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---
 
-## Flexibility
+Aprende a programar en Python desde cero. En este curso te ayudaré a comprender los fundamentos y características esenciales del lenguaje de programación Python de una manera sencilla, fácil de comprender y sobre todo práctica.
 
-This feature can be used for publishing content such as:
 
-- **Online courses**
-- **Project or software documentation**
-- **Tutorials**
-- **Notes**
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+## Temario del Curso
 
-## Delete courses
+## Introducción
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+## **Módulo 1:** **Conceptos Básicos de Programación en Python**
 
-## Update site menu
+1.1 Variables, tipos de datos y operadores.
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
+1.2 Entrada de Datos.
 
-For example, if you delete this folder, you can remove the following from your menu configuration:
+1.3 Estructuras de control.
 
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated _Courses_ menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the _docs_ layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+1.4 Funciones y modularidad.

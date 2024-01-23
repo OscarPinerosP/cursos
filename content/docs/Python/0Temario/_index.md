@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 title: Temario
-linktitle: ITemario
+linktitle: Temario
 weight: 1
 tags:
 - Python

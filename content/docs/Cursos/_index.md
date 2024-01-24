@@ -1,8 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Cursos'
 date: 2022-10-24
-type: landing
+type: book
 
 sections:
   - block: portfolio
@@ -34,21 +34,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Do you have a Data Science, AI or Cybersecurity Project, contact me.
-      # Contact (add or remove contact options as necessary)
-      email: oscar.pineros@gmail.com - oscar.pineros@corecs.co
-      phone:
-    design:
-      columns: '2'
+
 ---
+
+## Cursos de entreanmiento

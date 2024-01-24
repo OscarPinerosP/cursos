@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: 'Cursos'
 date: 2022-10-24
-type: landing
+type: blog
 
 sections:
   # A section to display blog posts

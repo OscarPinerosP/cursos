@@ -8,7 +8,7 @@ icon_pack: fas
 
 # Page metadata.
 title: Módulo 2
-date: '2018-09-09T00:00:00Z'
+date: '2024-01-20T00:00:00Z'
 type: book # Do not modify.
 ---
 

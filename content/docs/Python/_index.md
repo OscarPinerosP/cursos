@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: Concept
-linktitle: Conce
+title:
+linktitle:
 weight: 1
 tags:
 - Python
@@ -14,4 +14,3 @@ date: '2024-01-20T00:00:00Z'
 type: book # Do not modify.
 ---
 
-asdasdsa

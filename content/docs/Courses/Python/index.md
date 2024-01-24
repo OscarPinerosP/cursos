@@ -1,5 +1,6 @@
 ---
 title: Conceptos Básico de Programación con Python
+url: "https://google.com"
 date: 2024-01-24
 commentable: true
 authors:

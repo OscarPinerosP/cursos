@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 title:
 linktitle:
-weight: 1
+# weight: 1
 tags:
 - Python
 icon: book-reader

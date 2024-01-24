@@ -8,7 +8,7 @@ sections:
   - block: portfolio
     # id: courses
     content:
-      title: Courses
+      title: Cursos
       filters:
         folders:
           - docs/Python

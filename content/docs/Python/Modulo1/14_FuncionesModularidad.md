@@ -5,7 +5,7 @@ type: book
 date: '2024-01-20T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
-weight: 4
+weight: 5
 ---
 
 En Python, una función es un bloque de código reutilizable que realiza una tarea específica. Las funciones permiten dividir un programa en bloques más pequeños y modularizar el código, facilitando su mantenimiento y reutilización. La estructura básica de una función en Python es la siguiente:

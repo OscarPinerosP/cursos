@@ -1,14 +1,12 @@
 ---
-title: Introducción
-linktitle: Introducción
+title: Que es Python?
+linktitle: Que es Python?
 type: book
 date: '2024-01-20T00:00:00Z'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 tags: 
 weight: 3
 ---
-
-## Que es Python?
 
 Python es un lenguaje de programación de alto nivel, interpretado y de propósito general. Fue creado por Guido van Rossum y su primera versión fue lanzada en 1991. Python se destaca por su sintaxis clara y legible, lo que lo hace muy accesible para programadores principiantes y facilita el mantenimiento del código.
 

@@ -11,7 +11,7 @@ main:
     url: '#projects'
     weight: 20
   - name: Courses
-    url: docs/Courses/
+    url: docs/courses/
     weight: 30
   - name: Contact
     url: '#contact'

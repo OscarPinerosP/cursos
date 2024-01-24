@@ -15,7 +15,7 @@ type: book # Do not modify.
 ---
 
 
-## Introducción ({{< relref "docs/python/introduccion/" >}})
+## Introducción
 
 <!-- ## Módulo 1: Conceptos Básicos de Programación en Python -->
 
@@ -29,7 +29,9 @@ type: book # Do not modify.
 
 1.4 Funciones y modularidad.
 
-## Módulo 2: Estructuras de Datos en Python
+<!-- ## Módulo 2: Estructuras de Datos en Python -->
+
+[Módulo 2: Estructuras de Datos en Python]({{< relref "docs/python/modulo2/" >}})
 
 2.1 Listas, tuplas y diccionarios.
 
@@ -37,19 +39,25 @@ type: book # Do not modify.
 
 2.3 Cadenas o Strings, Acceso y Manipulación de Cadenas.
 
-## Módulo 3: Manejo de Errores y Excepciones
+<!-- ## Módulo 3: Manejo de Errores y Excepciones -->
+
+[Módulo 3: Manejo de Errores y Excepciones]({{< relref "docs/python/modulo3/" >}})
 
 3.1 Try, except, finally.
 
 3.2 Creación de Excepciones Personalizadas.
 
-## Módulo 4: Trabajo con Archivos
+<!-- ## Módulo 4: Trabajo con Archivos -->
+
+[Módulo 4: Trabajo con Archivos]({{< relref "docs/python/modulo4/" >}})
 
 4.1 Creación, Lectura y Escritura de Archivos de Texto.
 
 4.2 Manipulación de rutas de archivos y directorios.
 
-## Módulo 5: Programación Funcional en Python
+<!-- ## Módulo 5: Programación Funcional en Python -->
+
+[Módulo 5: Programación Funcional en Python]({{< relref "docs/python/modulo5/" >}})
 
 5.1 Funciones de primera clase.
 
@@ -61,7 +69,9 @@ type: book # Do not modify.
 
 5.5 Inmutabilidad.
 
-## Módulo 6: Expresiones Regulares
+<!-- ## Módulo 6: Expresiones Regulares -->
+
+[Módulo 6: Expresiones Regulares]({{< relref "docs/python/modulo6/" >}})
 
 6.1 Expresiones Regulares (Regex).
 
@@ -71,44 +81,12 @@ type: book # Do not modify.
 
 6.4 Aplicaciones Comunes de las Expresiones Regulares.
 
-## Módulo 7: Manejo de Fechas y Tiempo
+<!-- ## Módulo 7: Manejo de Fechas y Tiempo -->
+
+[Módulo 7: Manejo de Fechas y Tiempo]({{< relref "docs/python/modulo7/" >}})
 
 7.1 Módulo datetime.
 
 7.2 Directivas de Formato.
 
 7.3 Zonas Horarias.
-
-## Módulo 8: Introducción a la Ciencia de Datos con Python (opcional)
-
-8.1 Definición de ciencia de datos.
-
-8.2 Herramientas y Bibliotecas Principales.
-
-8.3 Manipulación de Datos con Pandas.
-
-8.4 Análisis y Visualización de Datos.
-
-8.5 Procesamiento y Limpieza de Datos.
-
-8.6 Introducción a la Estadística Descriptiva.
-
-8.7 Introducción al Aprendizaje Automático (Machine Learning).
-
-## Módulo 9: Introducción a la Inteligencia Artificial con Python (opcional)
-
-9.1 Definición de Inteligencia Artificial (IA).
-
-9.2 Tipos de Inteligencia Artificial.
-
-9.3 Bibliotecas y Frameworks en Python.
-
-9.4 Aprendizaje Supervisado y No Supervisado.
-
-9.5 Redes Neuronales y Aprendizaje Profundo.
-
-9.6 Creación y Entrenamiento de Modelos.
-
-9.7 Aplicaciones Prácticas.
-
-9.8 Ética en la Inteligencia Artificial.

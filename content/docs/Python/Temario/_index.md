@@ -17,6 +17,8 @@ type: book # Do not modify.
 
 ## Introducción
 
+<!-- [Introducción]({{< relref "docs/python/modulo1/" >}}) -->
+
 <!-- ## Módulo 1: Conceptos Básicos de Programación en Python -->
 
 [Módulo 1: Conceptos Básicos de Programación en Python]({{< relref "docs/python/modulo1/" >}})

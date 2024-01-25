@@ -16,7 +16,7 @@ type: book # Do not modify.
 
 [Introducción](../introduccion/)
 
-{ href="/docs/Pozivnica.pdf"}
+{ href="uploads/docs/cursoPython.ipynb"}
 
 [Módulo 1: Conceptos Básicos de Programación en Python](../modulo1/)
 

@@ -16,7 +16,7 @@ type: book # Do not modify.
 
 [Introducción](../introduccion/)
 
-{<a href="uploads/docs/cursoPython.ipynb" download="">Download (simple.ipynb)</a>}
+{<a href="../../../../static/uploads/docs/cursoPython.ipynb" download="">Download (simple.ipynb)</a>}
 
 [Módulo 1: Conceptos Básicos de Programación en Python](../modulo1/)
 

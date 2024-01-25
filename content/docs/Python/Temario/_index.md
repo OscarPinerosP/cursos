@@ -14,12 +14,9 @@ date: '2024-01-20T00:00:00Z'
 type: book # Do not modify.
 ---
 
+[Introducción](../introduccion/)
 
-## Introducción
-
-[Introducción](../introduccion/ "Introducción")
-
-[Módulo 1: Conceptos Básicos de Programación en Python]({{< relref "docs/python/modulo1/" >}})
+[Módulo 1: Conceptos Básicos de Programación en Python]("../modulo1/)
 
 1.1 Variables, tipos de datos y operadores.
 
@@ -29,7 +26,7 @@ type: book # Do not modify.
 
 1.4 Funciones y modularidad.
 
-[Módulo 2: Estructuras de Datos en Python]({{< relref "docs/python/modulo2/" >}})
+[Módulo 2: Estructuras de Datos en Python]("../modulo2/)
 
 2.1 Listas, tuplas y diccionarios.
 
@@ -37,19 +34,19 @@ type: book # Do not modify.
 
 2.3 Cadenas o Strings, Acceso y Manipulación de Cadenas.
 
-[Módulo 3: Manejo de Errores y Excepciones]({{< relref "docs/python/modulo3/" >}})
+[Módulo 3: Manejo de Errores y Excepciones]("../modulo3/)
 
 3.1 Try, except, finally.
 
 3.2 Creación de Excepciones Personalizadas.
 
-[Módulo 4: Trabajo con Archivos]({{< relref "docs/python/modulo4/" >}})
+[Módulo 4: Trabajo con Archivos]("../modulo4/)
 
 4.1 Creación, Lectura y Escritura de Archivos de Texto.
 
 4.2 Manipulación de rutas de archivos y directorios.
 
-[Módulo 5: Programación Funcional en Python]({{< relref "docs/python/modulo5/" >}})
+[Módulo 5: Programación Funcional en Python]("../modulo5/)
 
 5.1 Funciones de primera clase.
 
@@ -61,7 +58,7 @@ type: book # Do not modify.
 
 5.5 Inmutabilidad.
 
-[Módulo 6: Expresiones Regulares]({{< relref "docs/python/modulo6/" >}})
+[Módulo 6: Expresiones Regulares]("../modulo6/)
 
 6.1 Expresiones Regulares (Regex).
 
@@ -71,7 +68,7 @@ type: book # Do not modify.
 
 6.4 Aplicaciones Comunes de las Expresiones Regulares.
 
-[Módulo 7: Manejo de Fechas y Tiempo]({{< relref "docs/python/modulo7/" >}})
+[Módulo 7: Manejo de Fechas y Tiempo]("../modulo7/)
 
 7.1 Módulo datetime.
 

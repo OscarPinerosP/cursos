@@ -10,8 +10,10 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
+  # - name: Courses
+  #   url: docs/courses/
   - name: Courses
-    url: docs/courses/
+    url: '#courses'
     weight: 30
   - name: Contact
     url: '#contact'

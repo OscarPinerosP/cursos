@@ -19,8 +19,6 @@ type: book # Do not modify.
 
 [Módulo 1: Conceptos Básicos de Programación en Python]({{< relref "docs/python/modulo1/" >}})
 
-{{< relref "docs/python/modulo1/11_variablestiposdatosoperadores/" >}}
-
 1.1 Variables, tipos de datos y operadores.
 
 1.2 Entrada de Datos.

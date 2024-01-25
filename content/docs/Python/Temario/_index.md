@@ -16,7 +16,7 @@ type: book # Do not modify.
 
 [Introducción](../introduccion/)
 
-{{% staticref "uploads/docs/cursoPython.ipynb" "newtab" %}}Download my CV{{% /staticref %}}
+{ href="/docs/Pozivnica.pdf"}
 
 [Módulo 1: Conceptos Básicos de Programación en Python](../modulo1/)
 

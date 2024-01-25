@@ -162,7 +162,7 @@ Create `assets/css/reveal_custom.css` with:
 
 ---
 
-# Questions?
+## Questions?
 
 [Ask](https://discord.gg/z8wNYzb)
 

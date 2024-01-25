@@ -47,3 +47,6 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   name = ""
   homepage = ""
   repo = ""
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
